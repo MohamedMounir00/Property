@@ -1,2 +1,4 @@
 https://scotch.io/tutorials/user-authorization-in-laravel-54-with-spatie-laravel-permission
 
+http://voerro.com/blog/irc-like-real-time-chat-with-socket-io-redis-vue.js-2-in-laravel-5-pt-1
+
