@@ -1,0 +1,5 @@
+https://laracasts.com/discuss/channels/laravel/how-to-disable-password-hasing-of-auth?page=0#reply-80892)...
+
+https://stackoverflow.com/questions/49611338/laravel-5-6-sent-email
+
+https://www.5balloons.info/user-email-verification-and-account-activation-in-laravel-5-5/
