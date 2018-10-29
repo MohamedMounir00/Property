@@ -1,4 +1,10 @@
 https://scotch.io/tutorials/user-authorization-in-laravel-54-with-spatie-laravel-permission
 
 http://voerro.com/blog/irc-like-real-time-chat-with-socket-io-redis-vue.js-2-in-laravel-5-pt-1
+https://itsolutionstuff.com/post/laravel-56-user-roles-and-permissions-acl-using-spatie-tutorialexample.html
+/////////////////////////////////////////////
+system log
+
+http://www.lib4dev.com/info/jeremykenedy/laravel-logger/109630720
+
 
