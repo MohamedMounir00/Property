@@ -1,1 +1,6 @@
 https://github.com/niklasravnsborg/laravel-pdf
+
+
+
+
+https://packagist.org/packages/maq89/paytabs-laravel     paytabs
