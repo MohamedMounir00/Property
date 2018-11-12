@@ -4,3 +4,7 @@ https://github.com/niklasravnsborg/laravel-pdf
 
 
 https://packagist.org/packages/maq89/paytabs-laravel     paytabs
+
+generator curd
+http://labs.infyom.com/laravelgenerator/
+http://labs.infyom.com/laravelgenerator/docs/5.6/generator-commands
